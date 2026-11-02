@@ -1,0 +1,28 @@
+2026-10-30 17:18:32,632 | INFO | ========== INGESTION STARTED ==========
+2026-10-30 17:18:32,728 | INFO | Connected to MySQL source successfully.
+2026-10-30 17:18:32,791 | INFO | Connected to PostgreSQL target successfully.
+2026-10-30 17:18:32,793 | INFO | Source query executed successfully.
+2026-10-30 17:18:32,809 | INFO | Batch 1 completed: 25 records loaded.
+2026-10-30 17:18:32,811 | INFO | Batch 2 completed: 25 records loaded.
+2026-10-30 17:18:32,816 | INFO | Batch 3 completed: 25 records loaded.
+2026-10-30 17:18:32,818 | INFO | Batch 4 completed: 25 records loaded.
+2026-10-30 17:18:32,818 | INFO | Ingestion completed successfully!
+2026-10-30 17:18:32,818 | INFO | Total batches processed: 4
+2026-10-30 17:18:32,819 | INFO | Total records transferred: 100
+2026-10-30 17:18:32,819 | INFO | ========== INGESTION FINISHED ==========
+2026-10-30 17:18:32,820 | INFO | MySQL connection closed.
+2026-10-30 17:18:32,820 | INFO | PostgreSQL connection closed.
+2026-10-30 17:30:55,958 | INFO | ========== INGESTION STARTED ==========
+2026-10-30 17:30:56,031 | INFO | Connected to MySQL source successfully.
+2026-10-30 17:30:56,088 | INFO | Connected to PostgreSQL target successfully.
+2026-10-30 17:30:56,089 | INFO | Source query executed successfully.
+2026-10-30 17:30:56,102 | INFO | Batch 1 completed: 25 records loaded.
+2026-10-30 17:30:56,103 | INFO | Batch 2 completed: 25 records loaded.
+2026-10-30 17:30:56,105 | INFO | Batch 3 completed: 25 records loaded.
+2026-10-30 17:30:56,106 | INFO | Batch 4 completed: 25 records loaded.
+2026-10-30 17:30:56,106 | INFO | Ingestion completed successfully!
+2026-10-30 17:30:56,106 | INFO | Total batches processed: 4
+2026-10-30 17:30:56,106 | INFO | Total records transferred: 100
+2026-10-30 17:30:56,106 | INFO | ========== INGESTION FINISHED ==========
+2026-10-30 17:30:56,107 | INFO | MySQL connection closed.
+2026-10-30 17:30:56,107 | INFO | PostgreSQL connection closed.
