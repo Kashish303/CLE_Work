@@ -1,0 +1,15 @@
+order_id,customer_id,order_date,status
+1001,1,2025-01-15,Delivered
+1002,2,2025-02-20,Delivered
+1003,1,2025-02-25,Delivered
+1004,3,2025-03-05,Delivered
+1005,4,2025-03-15,Cancelled
+1006,5,2025-04-20,Delivered
+1007,2,2025-04-25,Delivered
+1008,6,2025-05-10,Delivered
+1009,3,2025-05-15,Delivered
+1010,1,2025-06-01,Delivered
+1011,7,2025-06-15,Delivered
+1012,5,2025-07-03,Delivered
+1013,8,2025-07-12,Pending
+1014,7,2025-07-20,Delivered
