@@ -1,0 +1,1 @@
+The top-level CSVs reproduce the Phase 1 synthetic sample tables. The five files under phase2_csv_outputs are the Phase 2 pandas report outputs. They are sample training data, not Kaggle Olist records.
